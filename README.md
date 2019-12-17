@@ -1,6 +1,8 @@
 <H1>Study Spot Finder</H1>
-
 <H2>Senior Design for Spring 2020</H2> 
+
+❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗❗
+READ THIS FIRST
 <p> 
   
 <b> FIRST LEARN HOW TO USE GITHUB DAMNIT IT WILL MAKE OUR LIFE EASIER </b> 
