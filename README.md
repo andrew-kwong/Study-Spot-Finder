@@ -3,7 +3,7 @@
 <p> 
 Senior Design for Spring 2020 
   
-FIRST LEARN HOW TO USE GITHUB DAMNIT 
+FIRST LEARN HOW TO USE GITHUB DAMNIT IT WILL MAKE OUR LIFE EASIER
 
 https://help.github.com/en/github/getting-started-with-github/set-up-git#setting-up-git 
 
