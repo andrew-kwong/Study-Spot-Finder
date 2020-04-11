@@ -26,7 +26,6 @@ https://desktop.github.com/
 
 <b>Commit to development branch, then we will decide what gets committed to master!</b> 
 
--With love, 
-Andrew 
+
 
 </p>
